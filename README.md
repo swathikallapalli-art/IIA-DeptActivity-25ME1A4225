@@ -1,2 +1,7 @@
 # IIA-DeptActivity-25ME1A4225
-Weekly project updates on python 
+weekly project updates on python 
+Name: Kallapalli Swathi 
+Roll Number: 25ME1A4225
+Branch: CSE (AI&ML) 
+Section: II-A About: My work during the five week department activity 
+Week 1: Baseline Diagnostic + Git/GitHub Setup
